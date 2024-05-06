@@ -1,10 +1,17 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
 cff-version: 1.2.0
-message: "If you use this software, please cite it as below."
+title: Elliptical Trajectory Builder
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
 authors:
-- family-names: "Tannous"
-  given-names: "Jaad"
-  orcid: "https://orcid.org/0000-0002-9970-6454"
-title: "Elliptical Trajectory Builder"
-version: 1.0.0
-date_released: 2023-08-01
-url: "https://github.com/jaadt7/elliptical_trajectory"
+  - given-names: Jaad
+    family-names: Tannous
+    email: jtannou@g.clemson.edu
+    affiliation: Clemson University
+    orcid: 'https://orcid.org/0000-0002-9970-6454'
+repository-code: 'https://github.com/jaadt7/elliptical_trajectory'
+license: GPL-3.0
