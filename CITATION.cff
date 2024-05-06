@@ -1,7 +1,9 @@
 cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
 authors:
-  -family-names: Tannous
-  -given-names: Jaad
-  -orcid: https://orcid.org/0000-0002-9970-6454
-title: "Elliptical Trajectory Builder"
-url: "https://https://github.com/jaadt7/elliptical_trajectory"
+- family-names: "Tannous"
+  given-names: "Jaad"
+  orcid: "https://orcid.org/0000-0002-9970-6454"
+title: "elliptical_trajectory"
+version: 1.0.0
+url: "https://github.com/jaadt7/elliptical_trajectory"
