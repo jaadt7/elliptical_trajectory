@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/476419216.svg)](https://doi.org/10.5281/zenodo.14796676)
+
 # elliptical_trajectory
 
 The interpulse time in Thermal Pulsing Asymptotic Giant Branch (TP-AGB) stars is of utmost importance to nuclear astrophysicists as it is where the main branch of the s-process occurs. The variation of the neutron flux as a function of temperature in the time between the pulses from the MESA code is used as the template for the parametrization, and an elliptical trajectory was deemed most appropriate.
